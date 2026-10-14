@@ -4,8 +4,9 @@ public class Hobby {
         displayTraineeHobbyB();
         displayTraineeHobbyC();
     }
-    public static void displayTraineeHobbyX() {
-        System.out.println("Trainee X’s Hobbies:");
-        // Hobbies of Trainee X will be added here
+    public static void displayTraineeHobbyA() {
+        System.out.println("Trainee A’s Hobbies:");
+        // Hobbies of Trainee A will be added here
+        System.out.println("I love watching movies and playing video games.");
     }
 }
